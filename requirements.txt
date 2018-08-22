@@ -1,0 +1,6 @@
+You will need to install the python module(s):
+--------------------
+requests
+---------------------
+Before running the python scripts. My Python version(3.6.5 ) did not have that 
+module when I started the exercise.
