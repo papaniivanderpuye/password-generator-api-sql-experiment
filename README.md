@@ -1,5 +1,5 @@
 # Introduction
-This file aims to further explain my solution files for the technical interview questions given to me.
+This file aims to further explain my solution files for creating a user account with a generated password, and saving it in a database.
 I used Python 3.6.5 to run my code. In the following paragraphs, I will talk about the execution of my files and the functions in my files. `requirements.txt` contains the name of the module you may have to install for my program to work.
 
 ## How to run
